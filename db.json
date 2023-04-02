@@ -6,7 +6,8 @@
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13170716a.webp",
     "description": "Babyhug Cotton Knit Half Sleeves T-Shirt & Denim Shorts Set Beach Print - Green & Blue",
     "id": "1",
-    "color": "blue"
+    "color": "blue",
+    "brand":"nike"
   },
   {
     "price": "350",
@@ -14,7 +15,8 @@
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13120578a.webp",
     "description": "ToffyHouse Half Sleeves Shirt & Shorts Set Striped - Red & Navy",
     "id": "2",
-    "color": "pink"
+    "color": "pink",
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -23,6 +25,8 @@
     "description": "Little Kangaroos Half Sleeves Striped Shirt with Teddy Patch and Twill Shorts - Pink",
     "id": "3",
     "color": "pink"
+    ,
+    "brand":"puma"
   },
   {
     "price": "450",
@@ -31,6 +35,8 @@
     "description": "Babyhug Cotton Half Sleeve Printed T-Shirt and Knee Length Bottomwear - White & Navy Blue",
     "id": "4",
     "color": "white"
+    ,
+    "brand":"nike"
   },
   {
     "price": "500",
@@ -39,6 +45,8 @@
     "description": "Babyhug Full Sleeves Indigo Check Shirt And Solid Trouser- Blue & Khaki",
     "id": "5",
     "color": "blue"
+    ,
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -47,6 +55,8 @@
     "description": "Anthrilo Half Sleeves Gamer Theme Splash Colour Art Printed Tee & Shorts Set - Green",
     "id": "6",
     "color": "green"
+    ,
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -55,6 +65,8 @@
     "description": "Anthrilo Half Sleeves Level Up Boys Gamer Theme Printed Tee & Shorts Set - Black",
     "id": "7",
     "color": "blue"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "450",
@@ -63,6 +75,8 @@
     "description": "Anthrilo Half Sleeves Gamer Theme Splash Colour Art Printed Tee & Shorts Set - Black",
     "id": "8",
     "color": "black"
+    ,
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -71,6 +85,8 @@
     "description": "Babyhug Half Sleeves Tie & Die Shirt - Yellow",
     "id": "9",
     "color": "yellow"
+    ,
+    "brand":"puma"
   },
   {
     "price": "500",
@@ -79,6 +95,8 @@
     "description": "Babyhug Half Sleeves Tie & Die Shirt - black",
     "id": "10",
     "color": "black"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "500",
@@ -87,6 +105,8 @@
     "description": "PASSION PETALS Teddy Caterpillar Design Detailed LED Shoes - Orange",
     "id": "11",
     "color": "orange"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "400",
@@ -95,6 +115,8 @@
     "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - Yellow",
     "id": "12",
     "color": "yellow"
+    ,
+    "brand":"puma"
   },
   {
     "price": "450",
@@ -103,6 +125,8 @@
     "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - green",
     "id": "13",
     "color": "green"
+    ,
+    "brand":"puma"
   },
   {
     "price": "500",
@@ -111,6 +135,8 @@
     "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - blue",
     "id": "14",
     "color": "blue"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "500",
@@ -119,6 +145,8 @@
     "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - yellow",
     "id": "15",
     "color": "yellow"
+    ,
+    "brand":"puma"
   },
   {
     "price": "450",
@@ -127,6 +155,8 @@
     "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - black",
     "id": "16",
     "color": "black"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "400",
@@ -135,6 +165,8 @@
     "description": "Kid-O-World Square Shaped Sunglasses - Black",
     "id": "17",
     "color": "black"
+    ,
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -143,6 +175,8 @@
     "description": "Kid-O-World Square Shaped Sunglasses - blue",
     "id": "18",
     "color": "blue"
+    ,
+    "brand":"puma"
   },
   {
     "price": "500",
@@ -151,6 +185,8 @@
     "description": "Kid-O-World Square Shaped Sunglasses - yellow",
     "id": "19",
     "color": "yellow"
+    ,
+    "brand":"puma"
   },
   {
     "price": "450",
@@ -159,6 +195,8 @@
     "description": "Pine Kids Analog Watch - Light Blue",
     "id": "20",
     "color": "blue"
+    ,
+    "brand":"nike"
   },
   {
     "price": "450",
@@ -167,6 +205,8 @@
     "description": "Pine Kids Analog Watch - yellow",
     "id": "21",
     "color": "yellow"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "400",
@@ -175,6 +215,8 @@
     "description": "Pine Kids Analog Watch - green",
     "id": "22",
     "color": "green"
+    ,
+    "brand":"nike"
   },
   {
     "price": "500",
@@ -183,6 +225,8 @@
     "description": "Pine Kids Analog Watch - pink",
     "id": "23",
     "color": "pink"
+    ,
+    "brand":"adidas"
   },
   {
     "price": "400",
@@ -191,6 +235,8 @@
     "description": "Babyhug 100% Cotton Woven Half Sleeves Shirt Leaf Print - blue",
     "id": "24",
     "color": "blue"
+    ,
+    "brand":"puma"
   }
 ]
 }
