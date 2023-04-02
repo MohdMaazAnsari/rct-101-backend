@@ -1,0 +1,196 @@
+{
+  "products" :  [
+  {
+    "price": "400",
+    "name": "Tshirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13170716a.webp",
+    "description": "Babyhug Cotton Knit Half Sleeves T-Shirt & Denim Shorts Set Beach Print - Green & Blue",
+    "id": "1",
+    "color": "blue"
+  },
+  {
+    "price": "350",
+    "name": "Tshirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13120578a.webp",
+    "description": "ToffyHouse Half Sleeves Shirt & Shorts Set Striped - Red & Navy",
+    "id": "2",
+    "color": "pink"
+  },
+  {
+    "price": "450",
+    "name": "Tshirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13086015a.webp",
+    "description": "Little Kangaroos Half Sleeves Striped Shirt with Teddy Patch and Twill Shorts - Pink",
+    "id": "3",
+    "color": "pink"
+  },
+  {
+    "price": "450",
+    "name": "Tshirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12315678a.webp",
+    "description": "Babyhug Cotton Half Sleeve Printed T-Shirt and Knee Length Bottomwear - White & Navy Blue",
+    "id": "4",
+    "color": "white"
+  },
+  {
+    "price": "500",
+    "name": "Shirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11745787a.webp",
+    "description": "Babyhug Full Sleeves Indigo Check Shirt And Solid Trouser- Blue & Khaki",
+    "id": "5",
+    "color": "blue"
+  },
+  {
+    "price": "450",
+    "name": "suit",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13151211a.webp",
+    "description": "Anthrilo Half Sleeves Gamer Theme Splash Colour Art Printed Tee & Shorts Set - Green",
+    "id": "6",
+    "color": "green"
+  },
+  {
+    "price": "450",
+    "name": "suit",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13151296a.webp",
+    "description": "Anthrilo Half Sleeves Level Up Boys Gamer Theme Printed Tee & Shorts Set - Black",
+    "id": "7",
+    "color": "blue"
+  },
+  {
+    "price": "450",
+    "name": "suit",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13151268a.webp",
+    "description": "Anthrilo Half Sleeves Gamer Theme Splash Colour Art Printed Tee & Shorts Set - Black",
+    "id": "8",
+    "color": "black"
+  },
+  {
+    "price": "450",
+    "name": "Shirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12617340a.webp",
+    "description": "Babyhug Half Sleeves Tie & Die Shirt - Yellow",
+    "id": "9",
+    "color": "yellow"
+  },
+  {
+    "price": "500",
+    "name": "Shirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12776845a.webp",
+    "description": "Babyhug Half Sleeves Tie & Die Shirt - black",
+    "id": "10",
+    "color": "black"
+  },
+  {
+    "price": "500",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13075740a.webp",
+    "description": "PASSION PETALS Teddy Caterpillar Design Detailed LED Shoes - Orange",
+    "id": "11",
+    "color": "orange"
+  },
+  {
+    "price": "400",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13060533a.webp",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - Yellow",
+    "id": "12",
+    "color": "yellow"
+  },
+  {
+    "price": "450",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11577134a.webp",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - green",
+    "id": "13",
+    "color": "green"
+  },
+  {
+    "price": "500",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11250340a.webp",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - blue",
+    "id": "14",
+    "color": "blue"
+  },
+  {
+    "price": "500",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11250364a.webp",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - yellow",
+    "id": "15",
+    "color": "yellow"
+  },
+  {
+    "price": "450",
+    "name": "Shoes",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11577125a.webp",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - black",
+    "id": "16",
+    "color": "black"
+  },
+  {
+    "price": "400",
+    "name": "sunglass",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/2690924a.webp",
+    "description": "Kid-O-World Square Shaped Sunglasses - Black",
+    "id": "17",
+    "color": "black"
+  },
+  {
+    "price": "450",
+    "name": "sunglass",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12757392a.webp",
+    "description": "Kid-O-World Square Shaped Sunglasses - blue",
+    "id": "18",
+    "color": "blue"
+  },
+  {
+    "price": "500",
+    "name": "sunglass",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11167872a.webp",
+    "description": "Kid-O-World Square Shaped Sunglasses - yellow",
+    "id": "19",
+    "color": "yellow"
+  },
+  {
+    "price": "450",
+    "name": "watch",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11315220a.webp",
+    "description": "Pine Kids Analog Watch - Light Blue",
+    "id": "20",
+    "color": "blue"
+  },
+  {
+    "price": "450",
+    "name": "watch",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12674526a.webp",
+    "description": "Pine Kids Analog Watch - yellow",
+    "id": "21",
+    "color": "yellow"
+  },
+  {
+    "price": "400",
+    "name": "watch",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10202219a.webp",
+    "description": "Pine Kids Analog Watch - green",
+    "id": "22",
+    "color": "green"
+  },
+  {
+    "price": "500",
+    "name": "watch",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10202249a.webp",
+    "description": "Pine Kids Analog Watch - pink",
+    "id": "23",
+    "color": "pink"
+  },
+  {
+    "price": "400",
+    "name": "shirt",
+    "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12619735a.webp",
+    "description": "Babyhug 100% Cotton Woven Half Sleeves Shirt Leaf Print - blue",
+    "id": "24",
+    "color": "blue"
+  }
+]
+}
