@@ -100,9 +100,9 @@
   },
   {
     "price": "500",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13075740a.webp",
-    "description": "PASSION PETALS Teddy Caterpillar Design Detailed LED Shoes - Orange",
+    "description": "PASSION PETALS Teddy Caterpillar Design Detailed LED - Orange",
     "id": "11",
     "color": "orange"
     ,
@@ -110,9 +110,9 @@
   },
   {
     "price": "400",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/13060533a.webp",
-    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - Yellow",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual with Vehicle Patch - Yellow",
     "id": "12",
     "color": "yellow"
     ,
@@ -120,9 +120,9 @@
   },
   {
     "price": "450",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11577134a.webp",
-    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - green",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual with Vehicle Patch - green",
     "id": "13",
     "color": "green"
     ,
@@ -130,9 +130,9 @@
   },
   {
     "price": "500",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11250340a.webp",
-    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - blue",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual with Vehicle Patch - blue",
     "id": "14",
     "color": "blue"
     ,
@@ -140,9 +140,9 @@
   },
   {
     "price": "500",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11250364a.webp",
-    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - yellow",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual with Vehicle Patch - yellow",
     "id": "15",
     "color": "yellow"
     ,
@@ -150,9 +150,9 @@
   },
   {
     "price": "450",
-    "name": "Shoes",
+    "name": "",
     "avatar": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11577125a.webp",
-    "description": "Cute Walk by Babyhug Velcro Closure Casual Shoes with Vehicle Patch - black",
+    "description": "Cute Walk by Babyhug Velcro Closure Casual with Vehicle Patch - black",
     "id": "16",
     "color": "black"
     ,
